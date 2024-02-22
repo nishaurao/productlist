@@ -1,2 +1,2 @@
-This is a React application that displays products
+This is a React application that lists data
 
